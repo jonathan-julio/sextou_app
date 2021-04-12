@@ -1,0 +1,4 @@
+#Mon Apr 12 11:35:16 BRT 2021
+base.0=/Users/jonathanjulio/AndroidStudioProjects/sextou_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
